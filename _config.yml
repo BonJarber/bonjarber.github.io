@@ -1,0 +1,74 @@
+#-------------------------------
+# General Site Settings
+
+title: barbersec | AppSec Consulting Services
+description: Providing security consulting services # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://barbersec.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+#-------------------------------
+# About Section
+author-name: Jon Barber
+author-avatar: 08.jpg
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/bonjarber #
+linkedin: https://www.linkedin.com/in/jon-barber-security #
+github: https://github.com/bonjarber #
+# facebook:  https://facebook.com/ #
+# instagram: https://www.instagram.com/ #
+# pinterest: https://www.pinterest.com/ #
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: false #
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+#-------------------------------
+relative_links:
+        enabled: true
+        collections: false
+
+
+#-------------------------------
+# Build settings
+markdown: kramdown
+permalink: ':title/'
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-relative-links
+
+paginate: 7
+paginate_path: "/page/:num"
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+#-------------------------------
+# Exclude from processing.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

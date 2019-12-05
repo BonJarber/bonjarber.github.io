@@ -18,7 +18,7 @@ bug bounty programs.
 
 I've been doing AppSec professionally for about 6 years now. My years as an NCC
 Group consultant exposed me to hundreds of different apps, networks, and
-systems.This gave me a ton of reps breaking applications, and taught me how to
+systems. This gave me a ton of reps breaking applications, and taught me how to
 be a useful consultant. My time at Facebook taught me the challenges of securing
 products at a massive scale. Now I'd like to share this experience with others
 who need it.

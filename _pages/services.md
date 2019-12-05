@@ -7,10 +7,10 @@ permalink: /services/
 
 ## Services
 
-- Need help breaking some software?
+- Need help breaking your software?
 - Need help thinking about how something might break?
 - Need help teaching your software developers?
-- Need help teaching your security engineers?
+- Need help teaching your AppSec engineers?
 
 Let's talk.
 

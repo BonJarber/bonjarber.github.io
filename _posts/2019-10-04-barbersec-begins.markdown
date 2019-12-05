@@ -3,7 +3,7 @@ layout: post
 title:  "B A R B E R S E C  begins"
 date:   2019-10-04 12:00:00 +0300
 image:  06.jpg
-tags:   [AppSec]
+tags:   [AppSec,Bug Bounty, Hacking, Security, Research, Application Security]
 ---
 
 #### TLDR
@@ -27,7 +27,7 @@ to others so they can make use of it.
 
 This knowledge transfer can take the shape of a pentest, a design review, a code
  review, or a workshop/lecture for your software or security engineers. If this
-interests you, head over to the [services](pages/services.md) page.
+interests you, head over to the [services](/services/index.html) page.
 
 ## Scale
 
@@ -44,4 +44,5 @@ on companies that have such policies.
 
 I'm currently taking on new gigs to start in the new year. If you're interested
 in working with me please reach out soon, I'd love to hear what you have in
-mind.
+mind. Shoot me a message via the [services](/services/index.html) page or DM me
+on <a href="https://twitter.com/bonjarber">Twitter</a>.

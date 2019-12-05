@@ -11,23 +11,26 @@ I've started a company to help make the Internet more secure. I'm doing this in
 two ways:
 
 1. Sharing my security expertise via consulting.
-2. Building tools to more effectively find vulnerable assets on the Internet and
- report them via bug bounty.
+2. Building tools to find vulnerable assets on the Internet and report them via
+bug bounty programs.
 
 ## Knowledge
 
-I've been doing AppSec professionally for over 5 years. My years as an NCC Group
- consultant exposed me to hundreds of different apps, gave me a ton of reps
-breaking applications, and taught me how to be a useful consultant.
+I've been doing AppSec professionally for almost 6 years. My years as an NCC
+Group consultant exposed me to hundreds of different apps. This gave me a ton of
+ reps breaking applications, and taught me how to be a useful consultant.
 
-There's an element of personalized, high quality consulting that tooling simply
-can't replace yet. Security is still too human of a space. I think one of the
-more valuable ways I can spend my time is transferring whatever knowledge I have
-to others so they can make use of it.
+There's an element of personalized, high quality consulting that tooling can't
+replace yet. Security is still too human of a space. One of the more valuable
+ways I can spend my time is transferring whatever knowledge I have to others.
 
-This knowledge transfer can take the shape of a pentest, a design review, a code
- review, or a workshop/lecture for your software or security engineers. If this
-interests you, head over to the [services](/services/index.html) page.
+This knowledge transfer can come in a couple different forms:
+- Application penetration test
+- Design review
+- Code review
+- Training session for your software or security engineers.
+
+If this interests you, head over to the [services(/services/index.html) page.
 
 ## Scale
 
@@ -36,9 +39,9 @@ bodies means you can't guarantee the quality of services to maintain. Tooling on
 the other hand, when built well, can scale massively.
 
 I'm dedicating time to building tooling to more effectively find security bugs
-that exist on the Internet. Bug bounty programs with safe harbor policies
-provide a nice legal framework for this, so for the time being I'm only focusing
-on companies that have such policies.
+that exist on the Internet. <a href="https://disclose.io/">Safe harbor policies
+</a> provide a nice legal framework for this kind of work, so I'm focusing only
+on companies with such policies.
 
 ## Interested?
 

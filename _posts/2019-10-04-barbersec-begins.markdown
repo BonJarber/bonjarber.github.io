@@ -16,9 +16,12 @@ bug bounty programs.
 
 ## Knowledge
 
-I've been doing AppSec professionally for almost 6 years. My years as an NCC
-Group consultant exposed me to hundreds of different apps. This gave me a ton of
- reps breaking applications, and taught me how to be a useful consultant.
+I've been doing AppSec professionally for about 6 years now. My years as an NCC
+Group consultant exposed me to hundreds of different apps, networks, and
+systems.This gave me a ton of reps breaking applications, and taught me how to
+be a useful consultant. My time at Facebook taught me the challenges of securing
+products at a massive scale. Now I'd like to share this experience with others
+who need it.
 
 There's an element of personalized, high quality consulting that tooling can't
 replace yet. Security is still too human of a space. One of the more valuable
@@ -26,17 +29,17 @@ ways I can spend my time is transferring whatever knowledge I have to others.
 
 This knowledge transfer can come in a couple different forms:
 - Application penetration test
-- Design review
+- System design review
 - Code review
-- Training session for your software or security engineers.
+- Training for your software or security engineers.
 
 If this interests you, head over to the [services(/services/index.html) page.
 
 ## Scale
 
-The problem with consulting is that it doesn't scale well. Growing simply via
-bodies means you can't guarantee the quality of services to maintain. Tooling on
-the other hand, when built well, can scale massively.
+The problem I have with consulting is that it doesn't scale well. Growing simply
+via bodies means you can't guarantee the quality of services to maintain.
+Tooling on the other hand, when built well, can scale massively.
 
 I'm dedicating time to building tooling to more effectively find security bugs
 that exist on the Internet. <a href="https://disclose.io/">Safe harbor policies
@@ -45,7 +48,7 @@ on companies with such policies.
 
 ## Interested?
 
-I'm currently taking on new gigs to start in the new year. If you're interested
-in working with me please reach out soon, I'd love to hear what you have in
-mind. Shoot me a message via the [services](/services/index.html) page or DM me
-on <a href="https://twitter.com/bonjarber">Twitter</a>.
+I'm currently booking new gigs for January. If you're interested in working with
+me please reach out soon, I'd love to hear what you have in mind. Shoot me a
+message via the [services](/services/index.html) page or DM me on
+<a href="https://twitter.com/bonjarber">Twitter</a>.

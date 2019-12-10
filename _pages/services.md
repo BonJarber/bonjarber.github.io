@@ -12,8 +12,7 @@ with me will give you a more personal connection than you get with most large
 consulting companies.
 
 I can perform a security review of an application, review source code, host
-talks or workshops, help make your appsec/prodsec/bug bounty program run better,
-and love unique challenges.
+talks or workshops, or make your appsec/prodsec/bug bounty program run better.
 
 ### You probably * don't * want to contact me if
 

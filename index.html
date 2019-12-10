@@ -62,8 +62,10 @@ layout: default
 			</div>
 			{% include pagination.html %}
 		</div>
-		<div class="col col-12 col-t-4">
-			{% include sidebar.html %}
-		</div>
+			{% if paginator.posts >= 2 %}
+				<div class="col col-12 col-t-4">
+					{% include sidebar.html %}
+				</div>
+			{% endif %}
 	</div>
 </div>

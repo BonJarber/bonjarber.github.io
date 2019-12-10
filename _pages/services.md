@@ -5,13 +5,34 @@ image: 02.jpg
 permalink: /services/
 ---
 
-## Services
+## I'm here to help
 
-- Need help breaking your software?
-- Need help thinking about how something might break?
-- Need help teaching your software developers?
-- Need help teaching your AppSec engineers?
+
+### You probably **don't** want to contact me if
+
+- You're looking for an audit or other checklist assessment. I look to provide
+more than just a report.
+- You need forensic, incident response, or physical security services. Not my
+expertise.
+- You want an engagement lasting longer than 2-3 weeks at a time. I prefer
+short, high impact and time boxed work.
+- You need a large amount of secure software development. I love hacking stuff
+together, but I'm not the right person for a large dev project
+
+### You probably **do** want to contact me if
+
+- You want a meaningful assessment of your software's security posture
+- You want to know what digital assets you have exposed to the Internet
+- You want analysis and feedback on the design and execution of your
+AppSec/ProdSec team
+- You want to educate your software developers on how to write more secure code
+- You want to train your security engineers to be more effective
+- You have an interesting project in mind
 
 Let's talk.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdgJ9DU2tyIQQVgBAIIi2EBal9n_a8FxZLQg0WU8lDqpnR_Sg/viewform?embedded=true" width="640" height="768" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+### Email jon@barbsec.com
+
+or
+
+### DM [@bonjarber](https://twitter.com/bonjarber) on Twitter

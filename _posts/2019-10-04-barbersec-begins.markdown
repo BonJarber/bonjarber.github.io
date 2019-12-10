@@ -6,7 +6,6 @@ image:  06.jpg
 tags:   [AppSec,Bug Bounty, Hacking, Security, Research, Application Security]
 ---
 
-#### TLDR
 I've started a company to help make the Internet more secure. I'm doing this in
 two ways:
 

@@ -7,7 +7,7 @@ permalink: /about/
 
 ## Hi I'm Jon Barber
 
-For as long as I can remember I've enjoyed building and breaking things. It used to be with legos and washing machines, these days it tends to be software and system designs. Currently my time is spent building tools, doing bug bounty, security research, and consulting.
+For as long as I can remember I've enjoyed building and breaking things. First it was legos and washing machines, these days it's software and system designs. Currently my time is spent building tools, doing security research, and consulting.
 
 
 ## My Background

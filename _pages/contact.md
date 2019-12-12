@@ -1,18 +1,9 @@
 ---
 layout: page
-title: Services
+title: Contact
 image: 02.jpg
-permalink: /services/
+permalink: /contact/
 ---
-
-# I'm here to help
-
-I love helping organizations improve their security in a meaningful way. Working
-with me will give you a more personal connection than you get with most large
-consulting companies.
-
-I can perform a security review of an application, review source code, host
-talks or workshops, or make your appsec/prodsec/bug bounty program run better.
 
 ### You probably * don't * want to contact me if
 
@@ -24,18 +15,21 @@ expertise.
 short, high impact and time boxed work.
 - You need a large amount of secure software development. I love hacking stuff
 together, but I'm not the right person for a large dev project
+- You want something hacked that you don't explicitly own and have permission to
+test.
 
 ### You probably * do * want to contact me if
 
 - You want a meaningful assessment of your software's security posture
-- You want to know what digital assets you have exposed to the Internet
-- You want analysis and feedback on the design and execution of your
-AppSec/ProdSec team
+- You want to know what assets you have exposed to the Internet
+- You want feedback on the design and execution of your SDLC or AppSec/ProdSec team
 - You want to educate your software developers on how to write more secure code
-- You want to train your security engineers to be more effective
-- You have an interesting project in mind
+- You want to train your security engineers on tools and methodology
+- You have a small AppSec related project
 
-Got something in mind? Let's talk.
+---
+
+Got something in mind?
 
 ### Email [jon@barbersec.com](mailto:jon@barbersec.com)
 

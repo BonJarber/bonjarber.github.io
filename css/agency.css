@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /* font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif; */
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -45,7 +45,7 @@ h3,
 h4,
 h6 {
     text-transform: uppercase;
-    font-family: 'Nunito', -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
+    /* font-family: 'Nunito', -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif; */
     font-weight: 700;
 }
 
@@ -112,7 +112,7 @@ fieldset[disabled] .btn-primary.active {
     border-color: #1ABC9C;
     border-radius: 3px;
     text-transform: uppercase;
-    font-family:'Nunito', -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
+    /* font-family:'Nunito', -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif; */
     font-size: 18px;
     font-weight: 700;
     background:rgba(1,1,1,0.3);
@@ -173,7 +173,7 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: {{ site.data.template.font.secondary }};
+    /* font-family: {{ site.data.template.font.secondary }}; */
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
@@ -182,7 +182,7 @@ header .intro-text .intro-lead-in {
 header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
-    font-family: 'Nunito', -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
+    /* font-family: 'Nunito', -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif; */
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
@@ -196,7 +196,7 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: {{ site.data.template.font.secondary }};
+        /* font-family: {{ site.data.template.font.secondary }}; */
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
@@ -205,7 +205,7 @@ header .intro-text .intro-heading {
     header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
-        font-family: 'Nunito', -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
+        /* font-family: 'Nunito', -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif; */
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
@@ -225,7 +225,7 @@ section h2.section-heading {
 section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
-    font-family: {{ site.data.template.font.secondary }};
+    /* font-family: {{ site.data.template.font.secondary }}; */
     font-size: 16px;
     font-weight: 400;
 }

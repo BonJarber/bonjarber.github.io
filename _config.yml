@@ -29,7 +29,7 @@ instafeed: false #
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-93762067-2 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
